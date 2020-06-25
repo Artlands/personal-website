@@ -28,9 +28,9 @@ projects:
     archived: false
     forks: true
     projects:
-    - MetricsBuilder
-    - StencilComputing
-    - RaspberryPiCluster
+    # - MetricsBuilder
+    # - StencilComputing
+    # - RaspberryPiCluster
 
 # social_media:
   # behance: your_username
