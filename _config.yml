@@ -32,33 +32,33 @@ projects:
     # - StencilComputing
     # - RaspberryPiCluster
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: artlands
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: jie-li-1a728585
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: Jie_lee
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
 
-topics:
-  - name: High Performance Computing
-    web_url: https://discl.cs.ttu.edu/
-    image_url: https://images.idgesg.net/images/article/2018/10/supercomputer_servers_data_center_by_maxiphoto_getty_images_1200x800-100776400-large.jpg
+# topics:
+#   - name: High Performance Computing
+#     web_url: https://discl.cs.ttu.edu/
+#     image_url: https://images.idgesg.net/images/article/2018/10/supercomputer_servers_data_center_by_maxiphoto_getty_images_1200x800-100776400-large.jpg
 
-  - name: Computer Architecture
-    web_url: https://discl.cs.ttu.edu/
-    image_url: https://miro.medium.com/max/3840/1*TI9stR8GD9SF0B20kigyvA.jpeg
+#   - name: Computer Architecture
+#     web_url: https://discl.cs.ttu.edu/
+#     image_url: https://miro.medium.com/max/3840/1*TI9stR8GD9SF0B20kigyvA.jpeg
 
-  - name: DevOps 
-    web_url: https://discl.cs.ttu.edu/
-    image_url: https://miro.medium.com/max/3964/1*EBXc9eJ1YRFLtkNI_djaAw.png
+#   - name: DevOps 
+#     web_url: https://discl.cs.ttu.edu/
+#     image_url: https://miro.medium.com/max/3964/1*EBXc9eJ1YRFLtkNI_djaAw.png
